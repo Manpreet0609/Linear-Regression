@@ -4,3 +4,8 @@ You just got some contract work with an Ecommerce company based in New York City
 
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website. They've hired you on contract to help them figure it out! 
 
+
+
+REFERENCES:
+1. Udemy course : Python for Data Science and Machine Learning bootcamp
+
